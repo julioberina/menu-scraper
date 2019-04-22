@@ -1,1 +1,621 @@
-{"Popular Items":[{"name":"102. California Tempura Roll","description":"","price":"$8.00"},{"name":"76. Golden Tiger Roll","description":"Cream cheese, shrimp, tempura, spicy crabmeat.","price":"$13.50"},{"name":"104. Crunch Roll","description":"","price":"$9.50"},{"name":"110. Spicy Tuna Roll","description":"6 Pieces.","price":"$6.50"},{"name":"74. Candy Roll","description":"Crunch roll, salmon, tuna, avocado.","price":"$13.95"},{"name":"87. Washington Roll","description":"California roll, salmon.","price":"$12.00"},{"name":"77. Green Dragon Roll","description":"Crunch roll, avocado, fresh water eel.","price":"$14.50"},{"name":"84. Philadelphia Roll","description":"Salmon, cream cheese, avocado.","price":"$10.50"},{"name":"85. Rainbow Roll","description":"California roll with assorted sashimi","price":"$13.50"},{"name":"93. Baked Salmon Roll","description":"California roll, salmon.","price":"$12.95"}],"Appetizer":[{"name":"01. Soy Bean & Edamame","description":"","price":"$3.50"},{"name":"02. Garlic Edamame","description":"","price":"$5.00"},{"name":"04. Salmon Skin Salad","description":"","price":"$9.00"},{"name":"06. Seaweed Salad","description":"","price":"$9.50"},{"name":"07. Sunomono Salad","description":"","price":"$6.50"},{"name":"11. Sashimi (Poke) Salad","description":"","price":"$14.00"},{"name":"13. Ozen Chicken","description":"","price":"$7.50"},{"name":"16. Pork Gyoza & Potstickers","description":"6 Pieces.","price":"$5.50"},{"name":"18. Egg Roll","description":"3 Pieces.","price":"$4.50"},{"name":"19. Soft Shell Crab","description":"","price":"$8.50"},{"name":"20. Baked Green Mussels","description":"6 Pieces.","price":"$9.50"},{"name":"21. Shumai","description":"6 Pieces.","price":"$5.50"},{"name":"22. Monkey Brain","description":"5 Pieces.","price":"$6.25"},{"name":"23. Takoyaki","description":"6 Pieces.","price":"$6.50"},{"name":"25. Fried Oyster","description":"6 Pieces.","price":"$9.50"},{"name":"27. Jalapeno Bomb","description":"2 Pieces.","price":"$6.50"}],"Tempura":[{"name":"28. Calamari Tempura","description":"6 Pieces.","price":"$7.00"},{"name":"29. Shrimp Tempura (5)","description":"5 Pieces.","price":"$7.50"},{"name":"30. 3 Pieces Shrimp & 5 Pieces Vegetables","description":"","price":"$9.50"},{"name":"31. Vegetable Tempura","description":"5 Pieces.","price":"$4.50"}],"Sashimi":[{"name":"35. Sashimi (12pcs)","description":"12 Pieces of chef's choice sashimi","price":"$24.00"},{"name":"36. Sashimi Sampler (20pcs)","description":"20 Pieces of chef's choice sashimi","price":"$38.00"},{"name":"38. Abacore Sashmi","description":"5 Pieces.","price":"$11.50"},{"name":"39. Tilapia & Tai Sashimi","description":"5 Pieces.","price":"$9.75"},{"name":"40. Salmon Sashimi","description":"5 Pieces.","price":"$12.00"},{"name":"41. Tuna Sashimi","description":"5 Pieces.","price":"$11.50"},{"name":"42. Yellowtail Sashimi","description":"5 Pieces.","price":"$13.00"},{"name":"43. Escolar Sashimi","description":"5 Pieces.","price":"$11.00"}],"Sushi":[{"name":"44. Tuna Sushi","description":"Maguro.","price":"$5.00"},{"name":"45. Seared Tuna","description":"","price":"$5.25"},{"name":"46. Salmon Sushi","description":"","price":"$5.25"},{"name":"47. Seared Salmon Sushi","description":"","price":"$5.50"},{"name":"49. Albacore Sushi","description":"","price":"$5.00"},{"name":"50. Spicy Albacore Sushi","description":"","price":"$5.25"},{"name":"51. Tilapia Sushi","description":"Tai.","price":"$4.25"},{"name":"52. Escolar Sushi","description":"","price":"$4.75"},{"name":"53. Yellowtail Sushi","description":"Hamachi.","price":"$5.50"},{"name":"54. Fresh Water Eel Sushi","description":"Unagi.","price":"$5.95"},{"name":"55. Shrimp Sushi","description":"Ebi.","price":"$4.25"},{"name":"56. Mackarel Sushi","description":"Saba.","price":"$4.75"},{"name":"57. Octopus Sushi","description":"Taco.","price":"$4.50"},{"name":"58. Squid Sushi","description":"Ika.","price":"$3.95"},{"name":"59. Egg Sushi","description":"Tamago.","price":"$4.00"},{"name":"60. Smelt Egg Sushi","description":"Masago.","price":"$4.50"},{"name":"61. Salmon Egg Sushi","description":"Ikura.","price":"$5.75"},{"name":"62. Scallop Sushi","description":"Bay Scallops","price":"$5.00"},{"name":"63. Spicy Scallop Sushi","description":"Bay Scallops","price":"$5.25"},{"name":"64. Surf Clam Sushi","description":"","price":"$4.00"},{"name":"65. Crab Sushi","description":"Kani.","price":"$4.00"},{"name":"66. Bean Curd Sushi","description":"Inari.","price":"$4.00"},{"name":"67. Ozen Sushi","description":"Spicy tuna and spicy crabmeat wrapped in salmon","price":"$5.50"}],"Sushi Combo":[{"name":"70. Sushi 10 Pieces","description":"10 Pieces. chefs choice.","price":"$18.50"}],"Regular Roll":[{"name":"101. California Roll","description":"","price":"$5.25"},{"name":"102. California Tempura Roll","description":"","price":"$8.00"},{"name":"103. Calamari Tempura Roll","description":"","price":"$10.50"},{"name":"104. Crunch Roll","description":"","price":"$9.50"},{"name":"105. Salmon Roll","description":"","price":"$6.50"},{"name":"107. Salmon Skin Roll","description":"","price":"$8.50"},{"name":"109. Tuna Roll","description":"6 Pieces.","price":"$7.50"},{"name":"110. Spicy Tuna Roll","description":"6 Pieces.","price":"$6.50"},{"name":"111. Spider Roll","description":"6 Pieces.","price":"$10.50"},{"name":"112. Tempura Spicy Runa Roll","description":"","price":"$9.50"}],"Special Roll":[{"name":"72. Aloha Roll","description":"Spicy tuna, albacore, avocado.","price":"$13.50"},{"name":"73. Tataki Roll","description":"Spicy tuna inside with seared tuna on top","price":"$13.95"},{"name":"74. Candy Roll","description":"Crunch roll, salmon, tuna, avocado.","price":"$13.95"},{"name":"75. Fire Cracker Roll","description":"California roll, spicy tuna, scallop.","price":"$13.50"},{"name":"76. Golden Tiger Roll","description":"Cream cheese, shrimp, tempura, spicy crabmeat.","price":"$13.50"},{"name":"77. Green Dragon Roll","description":"Crunch roll, avocado, fresh water eel.","price":"$14.50"},{"name":"78. Hawaiian Roll","description":"California roll, tuna.","price":"$13.50"},{"name":"79. Hot Night Roll","description":"Crunchy roll, spicy tuna.","price":"$13.50"},{"name":"80. Gold Rush Roll","description":"Spicy crab meat, tilapia tempura.","price":"$12.95"},{"name":"82. Mexican Roll","description":"Avocado, spicy crabmeat.","price":"$11.50"},{"name":"83. Paradise Roll","description":"Spicy tuna, salmon, avocado.","price":"$13.50"},{"name":"84. Philadelphia Roll","description":"Salmon, cream cheese, avocado.","price":"$10.50"},{"name":"85. Rainbow Roll","description":"California roll with assorted sashimi","price":"$13.50"},{"name":"86. Tiger Roll","description":"Crunch roll, shrimp, avocado.","price":"$13.50"},{"name":"87. Washington Roll","description":"California roll, salmon.","price":"$12.00"},{"name":"89. Caterpiller Roll","description":"Eel crabmeat, cucumber, avocado.","price":"$13.95"},{"name":"90. Eel Special Roll","description":"Crab meat, cucumber, avocado, eel avocado.","price":"$13.50"},{"name":"91. Ozen Roll","description":"California roll, albacore roll, crispy onion, garlic butter.","price":"$13.50"},{"name":"92. Baked Crawfish Roll","description":"California roll, baked baby lobster.","price":"$13.95"},{"name":"93. Baked Salmon Roll","description":"California roll, salmon.","price":"$12.95"},{"name":"95. Baked Scallop Roll","description":"California roll, scallop.","price":"$12.25"},{"name":"97. Ohi Honey Roll","description":"Spicy tuna roll with baked salmon.","price":"$13.95"},{"name":"98. Vegas Roll","description":"salmon, cream cheese, avocado, crabmeat deep fried.","price":"$12.50"}],"Hand Roll ":[{"name":"113. California Hand Roll","description":"","price":"$4.25"},{"name":"114. Spicy Tuna Hand Roll","description":"","price":"$4.95"},{"name":"115. Scallop Hand Roll","description":"","price":"$4.75"},{"name":"116. Spicy Scallop Hand Roll","description":"","price":"$4.95"},{"name":"117. Shrimp Tempura Hand Roll","description":"","price":"$6.00"},{"name":"118. Spider Hand Roll","description":"","price":"$6.50"},{"name":"119. Phiadelphia Hand Roll","description":"","price":"$6.00"},{"name":"120. Yellowtail Hand Roll","description":"","price":"$6.50"},{"name":"122. Salmon Skin Hand Roll","description":"","price":"$4.95"}],"Vegetarian Roll":[{"name":"123. Avocado Roll","description":"","price":"$5.50"},{"name":"124. Avocado & Cucumber Roll","description":"","price":"$6.50"},{"name":"125. Cucumber Roll","description":"","price":"$5.00"},{"name":"126. Veggie Roll","description":"","price":"$7.00"},{"name":"127. Veggie Tempura Roll","description":"","price":"$9.00"}],"Bento":[{"name":"128. Chicken Teriyaki Bento","description":"Chicken Teriyaki, 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.","price":"$16.95"},{"name":"129. Bulgogi Bento","description":"Bulgogi (marinated beef), 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.","price":"$17.95"},{"name":"130. Salmon Teriyaki Bento","description":"Grilled Salmon, 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.","price":"$17.95"},{"name":"131. Spicy Pork Bento ","description":"Spicy Pork, 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.","price":"$16.95"},{"name":"132. Tonkatsu Bento - Pork Cutlet","description":"Tonkatsu, 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.","price":"$16.95"}],"Plates ":[{"name":"133. Chicken Teriyaki Plate","description":"","price":"$12.50"},{"name":"134. Bulgogi Teriyaki Plate","description":"","price":"$13.50"},{"name":"135. Salmon Teriyaki Plate","description":"","price":"$13.50"},{"name":"136. Spicy Pork Plate","description":"","price":"$12.50"},{"name":"137. Tonkatsu/Pork Cutlet Plate","description":"","price":"$12.50"}]}
+{
+  "Popular Items": [
+    {
+      "name": "102. California Tempura Roll",
+      "description": "",
+      "price": "$8.00"
+    },
+    {
+      "name": "76. Golden Tiger Roll",
+      "description": "Cream cheese, shrimp, tempura, spicy crabmeat.",
+      "price": "$13.50"
+    },
+    {
+      "name": "104. Crunch Roll",
+      "description": "",
+      "price": "$9.50"
+    },
+    {
+      "name": "110. Spicy Tuna Roll",
+      "description": "6 Pieces.",
+      "price": "$6.50"
+    },
+    {
+      "name": "74. Candy Roll",
+      "description": "Crunch roll, salmon, tuna, avocado.",
+      "price": "$13.95"
+    },
+    {
+      "name": "87. Washington Roll",
+      "description": "California roll, salmon.",
+      "price": "$12.00"
+    },
+    {
+      "name": "77. Green Dragon Roll",
+      "description": "Crunch roll, avocado, fresh water eel.",
+      "price": "$14.50"
+    },
+    {
+      "name": "84. Philadelphia Roll",
+      "description": "Salmon, cream cheese, avocado.",
+      "price": "$10.50"
+    },
+    {
+      "name": "85. Rainbow Roll",
+      "description": "California roll with assorted sashimi",
+      "price": "$13.50"
+    },
+    {
+      "name": "93. Baked Salmon Roll",
+      "description": "California roll, salmon.",
+      "price": "$12.95"
+    }
+  ],
+  "Appetizer": [
+    {
+      "name": "01. Soy Bean & Edamame",
+      "description": "",
+      "price": "$3.50"
+    },
+    {
+      "name": "02. Garlic Edamame",
+      "description": "",
+      "price": "$5.00"
+    },
+    {
+      "name": "04. Salmon Skin Salad",
+      "description": "",
+      "price": "$9.00"
+    },
+    {
+      "name": "06. Seaweed Salad",
+      "description": "",
+      "price": "$9.50"
+    },
+    {
+      "name": "07. Sunomono Salad",
+      "description": "",
+      "price": "$6.50"
+    },
+    {
+      "name": "11. Sashimi (Poke) Salad",
+      "description": "",
+      "price": "$14.00"
+    },
+    {
+      "name": "13. Ozen Chicken",
+      "description": "",
+      "price": "$7.50"
+    },
+    {
+      "name": "16. Pork Gyoza & Potstickers",
+      "description": "6 Pieces.",
+      "price": "$5.50"
+    },
+    {
+      "name": "18. Egg Roll",
+      "description": "3 Pieces.",
+      "price": "$4.50"
+    },
+    {
+      "name": "19. Soft Shell Crab",
+      "description": "",
+      "price": "$8.50"
+    },
+    {
+      "name": "20. Baked Green Mussels",
+      "description": "6 Pieces.",
+      "price": "$9.50"
+    },
+    {
+      "name": "21. Shumai",
+      "description": "6 Pieces.",
+      "price": "$5.50"
+    },
+    {
+      "name": "22. Monkey Brain",
+      "description": "5 Pieces.",
+      "price": "$6.25"
+    },
+    {
+      "name": "23. Takoyaki",
+      "description": "6 Pieces.",
+      "price": "$6.50"
+    },
+    {
+      "name": "25. Fried Oyster",
+      "description": "6 Pieces.",
+      "price": "$9.50"
+    },
+    {
+      "name": "27. Jalapeno Bomb",
+      "description": "2 Pieces.",
+      "price": "$6.50"
+    }
+  ],
+  "Tempura": [
+    {
+      "name": "28. Calamari Tempura",
+      "description": "6 Pieces.",
+      "price": "$7.00"
+    },
+    {
+      "name": "29. Shrimp Tempura (5)",
+      "description": "5 Pieces.",
+      "price": "$7.50"
+    },
+    {
+      "name": "30. 3 Pieces Shrimp & 5 Pieces Vegetables",
+      "description": "",
+      "price": "$9.50"
+    },
+    {
+      "name": "31. Vegetable Tempura",
+      "description": "5 Pieces.",
+      "price": "$4.50"
+    }
+  ],
+  "Sashimi": [
+    {
+      "name": "35. Sashimi (12pcs)",
+      "description": "12 Pieces of chef's choice sashimi",
+      "price": "$24.00"
+    },
+    {
+      "name": "36. Sashimi Sampler (20pcs)",
+      "description": "20 Pieces of chef's choice sashimi",
+      "price": "$38.00"
+    },
+    {
+      "name": "38. Abacore Sashmi",
+      "description": "5 Pieces.",
+      "price": "$11.50"
+    },
+    {
+      "name": "39. Tilapia & Tai Sashimi",
+      "description": "5 Pieces.",
+      "price": "$9.75"
+    },
+    {
+      "name": "40. Salmon Sashimi",
+      "description": "5 Pieces.",
+      "price": "$12.00"
+    },
+    {
+      "name": "41. Tuna Sashimi",
+      "description": "5 Pieces.",
+      "price": "$11.50"
+    },
+    {
+      "name": "42. Yellowtail Sashimi",
+      "description": "5 Pieces.",
+      "price": "$13.00"
+    },
+    {
+      "name": "43. Escolar Sashimi",
+      "description": "5 Pieces.",
+      "price": "$11.00"
+    }
+  ],
+  "Sushi": [
+    {
+      "name": "44. Tuna Sushi",
+      "description": "Maguro.",
+      "price": "$5.00"
+    },
+    {
+      "name": "45. Seared Tuna",
+      "description": "",
+      "price": "$5.25"
+    },
+    {
+      "name": "46. Salmon Sushi",
+      "description": "",
+      "price": "$5.25"
+    },
+    {
+      "name": "47. Seared Salmon Sushi",
+      "description": "",
+      "price": "$5.50"
+    },
+    {
+      "name": "49. Albacore Sushi",
+      "description": "",
+      "price": "$5.00"
+    },
+    {
+      "name": "50. Spicy Albacore Sushi",
+      "description": "",
+      "price": "$5.25"
+    },
+    {
+      "name": "51. Tilapia Sushi",
+      "description": "Tai.",
+      "price": "$4.25"
+    },
+    {
+      "name": "52. Escolar Sushi",
+      "description": "",
+      "price": "$4.75"
+    },
+    {
+      "name": "53. Yellowtail Sushi",
+      "description": "Hamachi.",
+      "price": "$5.50"
+    },
+    {
+      "name": "54. Fresh Water Eel Sushi",
+      "description": "Unagi.",
+      "price": "$5.95"
+    },
+    {
+      "name": "55. Shrimp Sushi",
+      "description": "Ebi.",
+      "price": "$4.25"
+    },
+    {
+      "name": "56. Mackarel Sushi",
+      "description": "Saba.",
+      "price": "$4.75"
+    },
+    {
+      "name": "57. Octopus Sushi",
+      "description": "Taco.",
+      "price": "$4.50"
+    },
+    {
+      "name": "58. Squid Sushi",
+      "description": "Ika.",
+      "price": "$3.95"
+    },
+    {
+      "name": "59. Egg Sushi",
+      "description": "Tamago.",
+      "price": "$4.00"
+    },
+    {
+      "name": "60. Smelt Egg Sushi",
+      "description": "Masago.",
+      "price": "$4.50"
+    },
+    {
+      "name": "61. Salmon Egg Sushi",
+      "description": "Ikura.",
+      "price": "$5.75"
+    },
+    {
+      "name": "62. Scallop Sushi",
+      "description": "Bay Scallops",
+      "price": "$5.00"
+    },
+    {
+      "name": "63. Spicy Scallop Sushi",
+      "description": "Bay Scallops",
+      "price": "$5.25"
+    },
+    {
+      "name": "64. Surf Clam Sushi",
+      "description": "",
+      "price": "$4.00"
+    },
+    {
+      "name": "65. Crab Sushi",
+      "description": "Kani.",
+      "price": "$4.00"
+    },
+    {
+      "name": "66. Bean Curd Sushi",
+      "description": "Inari.",
+      "price": "$4.00"
+    },
+    {
+      "name": "67. Ozen Sushi",
+      "description": "Spicy tuna and spicy crabmeat wrapped in salmon",
+      "price": "$5.50"
+    }
+  ],
+  "Sushi Combo": [
+    {
+      "name": "70. Sushi 10 Pieces",
+      "description": "10 Pieces. chefs choice.",
+      "price": "$18.50"
+    }
+  ],
+  "Regular Roll": [
+    {
+      "name": "101. California Roll",
+      "description": "",
+      "price": "$5.25"
+    },
+    {
+      "name": "102. California Tempura Roll",
+      "description": "",
+      "price": "$8.00"
+    },
+    {
+      "name": "103. Calamari Tempura Roll",
+      "description": "",
+      "price": "$10.50"
+    },
+    {
+      "name": "104. Crunch Roll",
+      "description": "",
+      "price": "$9.50"
+    },
+    {
+      "name": "105. Salmon Roll",
+      "description": "",
+      "price": "$6.50"
+    },
+    {
+      "name": "107. Salmon Skin Roll",
+      "description": "",
+      "price": "$8.50"
+    },
+    {
+      "name": "109. Tuna Roll",
+      "description": "6 Pieces.",
+      "price": "$7.50"
+    },
+    {
+      "name": "110. Spicy Tuna Roll",
+      "description": "6 Pieces.",
+      "price": "$6.50"
+    },
+    {
+      "name": "111. Spider Roll",
+      "description": "6 Pieces.",
+      "price": "$10.50"
+    },
+    {
+      "name": "112. Tempura Spicy Runa Roll",
+      "description": "",
+      "price": "$9.50"
+    }
+  ],
+  "Special Roll": [
+    {
+      "name": "72. Aloha Roll",
+      "description": "Spicy tuna, albacore, avocado.",
+      "price": "$13.50"
+    },
+    {
+      "name": "73. Tataki Roll",
+      "description": "Spicy tuna inside with seared tuna on top",
+      "price": "$13.95"
+    },
+    {
+      "name": "74. Candy Roll",
+      "description": "Crunch roll, salmon, tuna, avocado.",
+      "price": "$13.95"
+    },
+    {
+      "name": "75. Fire Cracker Roll",
+      "description": "California roll, spicy tuna, scallop.",
+      "price": "$13.50"
+    },
+    {
+      "name": "76. Golden Tiger Roll",
+      "description": "Cream cheese, shrimp, tempura, spicy crabmeat.",
+      "price": "$13.50"
+    },
+    {
+      "name": "77. Green Dragon Roll",
+      "description": "Crunch roll, avocado, fresh water eel.",
+      "price": "$14.50"
+    },
+    {
+      "name": "78. Hawaiian Roll",
+      "description": "California roll, tuna.",
+      "price": "$13.50"
+    },
+    {
+      "name": "79. Hot Night Roll",
+      "description": "Crunchy roll, spicy tuna.",
+      "price": "$13.50"
+    },
+    {
+      "name": "80. Gold Rush Roll",
+      "description": "Spicy crab meat, tilapia tempura.",
+      "price": "$12.95"
+    },
+    {
+      "name": "82. Mexican Roll",
+      "description": "Avocado, spicy crabmeat.",
+      "price": "$11.50"
+    },
+    {
+      "name": "83. Paradise Roll",
+      "description": "Spicy tuna, salmon, avocado.",
+      "price": "$13.50"
+    },
+    {
+      "name": "84. Philadelphia Roll",
+      "description": "Salmon, cream cheese, avocado.",
+      "price": "$10.50"
+    },
+    {
+      "name": "85. Rainbow Roll",
+      "description": "California roll with assorted sashimi",
+      "price": "$13.50"
+    },
+    {
+      "name": "86. Tiger Roll",
+      "description": "Crunch roll, shrimp, avocado.",
+      "price": "$13.50"
+    },
+    {
+      "name": "87. Washington Roll",
+      "description": "California roll, salmon.",
+      "price": "$12.00"
+    },
+    {
+      "name": "89. Caterpiller Roll",
+      "description": "Eel crabmeat, cucumber, avocado.",
+      "price": "$13.95"
+    },
+    {
+      "name": "90. Eel Special Roll",
+      "description": "Crab meat, cucumber, avocado, eel avocado.",
+      "price": "$13.50"
+    },
+    {
+      "name": "91. Ozen Roll",
+      "description": "California roll, albacore roll, crispy onion, garlic butter.",
+      "price": "$13.50"
+    },
+    {
+      "name": "92. Baked Crawfish Roll",
+      "description": "California roll, baked baby lobster.",
+      "price": "$13.95"
+    },
+    {
+      "name": "93. Baked Salmon Roll",
+      "description": "California roll, salmon.",
+      "price": "$12.95"
+    },
+    {
+      "name": "95. Baked Scallop Roll",
+      "description": "California roll, scallop.",
+      "price": "$12.25"
+    },
+    {
+      "name": "97. Ohi Honey Roll",
+      "description": "Spicy tuna roll with baked salmon.",
+      "price": "$13.95"
+    },
+    {
+      "name": "98. Vegas Roll",
+      "description": "salmon, cream cheese, avocado, crabmeat deep fried.",
+      "price": "$12.50"
+    }
+  ],
+  "Hand Roll ": [
+    {
+      "name": "113. California Hand Roll",
+      "description": "",
+      "price": "$4.25"
+    },
+    {
+      "name": "114. Spicy Tuna Hand Roll",
+      "description": "",
+      "price": "$4.95"
+    },
+    {
+      "name": "115. Scallop Hand Roll",
+      "description": "",
+      "price": "$4.75"
+    },
+    {
+      "name": "116. Spicy Scallop Hand Roll",
+      "description": "",
+      "price": "$4.95"
+    },
+    {
+      "name": "117. Shrimp Tempura Hand Roll",
+      "description": "",
+      "price": "$6.00"
+    },
+    {
+      "name": "118. Spider Hand Roll",
+      "description": "",
+      "price": "$6.50"
+    },
+    {
+      "name": "119. Phiadelphia Hand Roll",
+      "description": "",
+      "price": "$6.00"
+    },
+    {
+      "name": "120. Yellowtail Hand Roll",
+      "description": "",
+      "price": "$6.50"
+    },
+    {
+      "name": "122. Salmon Skin Hand Roll",
+      "description": "",
+      "price": "$4.95"
+    }
+  ],
+  "Vegetarian Roll": [
+    {
+      "name": "123. Avocado Roll",
+      "description": "",
+      "price": "$5.50"
+    },
+    {
+      "name": "124. Avocado & Cucumber Roll",
+      "description": "",
+      "price": "$6.50"
+    },
+    {
+      "name": "125. Cucumber Roll",
+      "description": "",
+      "price": "$5.00"
+    },
+    {
+      "name": "126. Veggie Roll",
+      "description": "",
+      "price": "$7.00"
+    },
+    {
+      "name": "127. Veggie Tempura Roll",
+      "description": "",
+      "price": "$9.00"
+    }
+  ],
+  "Bento": [
+    {
+      "name": "128. Chicken Teriyaki Bento",
+      "description": "Chicken Teriyaki, 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.",
+      "price": "$16.95"
+    },
+    {
+      "name": "129. Bulgogi Bento",
+      "description": "Bulgogi (marinated beef), 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.",
+      "price": "$17.95"
+    },
+    {
+      "name": "130. Salmon Teriyaki Bento",
+      "description": "Grilled Salmon, 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.",
+      "price": "$17.95"
+    },
+    {
+      "name": "131. Spicy Pork Bento ",
+      "description": "Spicy Pork, 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.",
+      "price": "$16.95"
+    },
+    {
+      "name": "132. Tonkatsu Bento - Pork Cutlet",
+      "description": "Tonkatsu, 4pcs of California Rolls, Mixed Tempura, Steamed Rice, Salad and Miso Soup.",
+      "price": "$16.95"
+    }
+  ],
+  "Plates ": [
+    {
+      "name": "133. Chicken Teriyaki Plate",
+      "description": "",
+      "price": "$12.50"
+    },
+    {
+      "name": "134. Bulgogi Teriyaki Plate",
+      "description": "",
+      "price": "$13.50"
+    },
+    {
+      "name": "135. Salmon Teriyaki Plate",
+      "description": "",
+      "price": "$13.50"
+    },
+    {
+      "name": "136. Spicy Pork Plate",
+      "description": "",
+      "price": "$12.50"
+    },
+    {
+      "name": "137. Tonkatsu/Pork Cutlet Plate",
+      "description": "",
+      "price": "$12.50"
+    }
+  ]
+}

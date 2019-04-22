@@ -35,7 +35,7 @@ def scraper
     data[category.css('h2').text] = menu_items
   end
 
-  File.open("menu.json", "w") { |file| file.write data.to_json }
+  File.open("menu.json", "w") { |file| file.puts JSON.pretty_generate(data) }
 end
 
 scraper
